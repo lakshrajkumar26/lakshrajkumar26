@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer with expertise in building responsive, user-focused web applications using modern JavaScript frameworks. Skilled in writing clean, efficient code and<br>enhancing UI performance for improved user interactions. Looking to leverage technical abilities and problem-solving skills in a collaborative project environment.
+Front-End and Back-End Developer with expertise in building responsive, user-focused web applications using modern JavaScript frameworks. Skilled in writing clean, efficient code and<br>enhancing UI performance for improved user interactions. Looking to leverage technical abilities and problem-solving skills in a collaborative project environment.
 
 
 ## 🌐 Socials:
