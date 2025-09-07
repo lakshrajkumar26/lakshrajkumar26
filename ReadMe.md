@@ -1,7 +1,7 @@
 <!-- Laksh Raj Kumar | GitHub Profile README -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Laksh%20Raj%20Kumar-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lakshrajkumar26&label=Profile%20views&color=0e75b6&style=flat" alt="lakshrajkumar26" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Laksh Raj Kumar</h1>
