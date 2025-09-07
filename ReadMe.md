@@ -59,6 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lakshrajkumar26&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshrajkumar26&layout=compact&theme=tokyonight" height="180"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshrajkumar26&theme=tokyo-night" alt="Laksh's GitHub Contribution Graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshrajkumar26&theme=tokyonight" alt="GitHub streak stats" />
