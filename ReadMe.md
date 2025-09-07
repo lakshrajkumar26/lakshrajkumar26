@@ -5,14 +5,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Laksh Raj Kumar</h1>
-<h3 align="center">Full-Stack Developer | MERN & Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Final-year **B.Tech CSE @ VIT Bhopal** (CGPA: **7.85**)  
 - 💡 Passionate about building **scalable MERN & PERN apps, REST APIs, and SaaS solutions**  
-- 🌱 Currently exploring **Next.js 15, Zustand, Drizzle ORM, CRM integrations**  
+- 🌱 Currently exploring **Next.js 15, Zustand, Drizzle ORM, Redis**  
 - ⚡ Fun fact: *I code faster with music 🎧*  
 
 ---
@@ -23,13 +23,6 @@
   - Developed scalable web apps and APIs with the PERN stack  
   - Improved API efficiency, containerized apps with Docker, and automated deployments  
   - Collaborated with senior developers to debug, optimize, and implement business logic  
-
-- **Full-Stack Developer Intern — Tellis Technologies (May 2025 – Jun 2025)**  
-  *React.js, Node.js, Express.js, MongoDB, MCP Server*  
-  - Built full-stack JavaScript (MERN) apps and modular backend services  
-  - Created reusable React UI from design screens, ensured project deadlines were met  
-  - Supported microservices communication and optimized performance  
-
 ---
 
 ## 🚀 Projects
@@ -43,10 +36,7 @@
   MERN stack with JWT auth, role-based dashboards, and real-time attendance tracking.  
 
 - **[Agent & Lead Management System](#)** *(personal project)*  
-  Next.js + PostgreSQL — Scalable ERD, integrated campaign and lead workflows.  
-
-- **[Salon Booking App (Electron + MERN)](#)** *(personal project)*  
-  Desktop + web hybrid app with Firebase auth and real-time scheduling.  
+  Next.js + PostgreSQL — Scalable ERD, integrated campaign and lead workflows.   
 
 ---
 
