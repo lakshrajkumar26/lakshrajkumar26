@@ -67,6 +67,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshrajkumar26&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshrajkumar26&theme=tokyonight" alt="Laksh's GitHub Profile Summary" />
+</p>
+
+
 ---
 
 ## 📬 Reach Me
