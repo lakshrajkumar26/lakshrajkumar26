@@ -60,6 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshrajkumar26&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshrajkumar26&theme=tokyonight" alt="GitHub streak stats" />
+</p>
+
 ---
 
 ## 📬 Reach Me
