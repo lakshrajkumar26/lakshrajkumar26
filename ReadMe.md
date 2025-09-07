@@ -1,9 +1,5 @@
 <!-- Laksh Raj Kumar | GitHub Profile README -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lakshrajkumar26&label=Profile%20views&color=0e75b6&style=flat" alt="lakshrajkumar26" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Laksh Raj Kumar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
@@ -60,7 +56,10 @@
 </p>
 
 ---
-
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshrajkumar26&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lakshrajkumar26" />
+</p>
+---
 ## 📬 Reach Me
 - 📧 **Email:** lakshrajkumar.lrk.791@gmail.com  
 - 🔗 **Resume:** [Laksh Raj Kumar Resume](https://drive.google.com/file/d/1-JYalZ5qdA8jvGFfQeSXvoMILLvgsZPM/view?usp=drive_link)  
