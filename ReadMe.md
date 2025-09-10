@@ -33,7 +33,7 @@
 - **[Bank Information Management System](https://github.com/lakshrajkumar26/bank-information-management-system/)** | [Live Demo](https://bank-information-management-system-t81l.onrender.com/)  
   React, Node.js, MongoDB — Role-based banking system improving onboarding efficiency by 40%, with secure APIs and real-time UI.  
 
-- **[Smart Attendance System]((https://github.com/lakshrajkumar26/datachron-library-managment)** | [[Live Demo](https://datachron-library-managment.vercel.app)
+- **[Smart Attendance System](https://github.com/lakshrajkumar26/datachron-library-managment)** | [[Live Demo](https://datachron-library-managment.vercel.app)
   MERN stack with TanStack, Query PostgreSQL, Prisma ORM , role-based dashboards, A modern library management system built with featuring book catalog management, borrowing history, and a clean dashboard interface.  
 
 - **[Agent & Lead Management System](#)** *(personal project)*  
